@@ -143,3 +143,7 @@ streamlit run app.py
 Sushma Munagala
 
 Data Science & AI Enthusiast
+Web Link: https://ai-driven-customer-analysis.onrender.com/<img width="1612" height="907" alt="Screenshot 2026-06-09 152359" src="https://github.com/user-attachments/assets/392b39d7-ced3-474d-ae35-76144edf4971" />
+<img width="1747" height="885" alt="Screenshot 2026-06-09 152035" src="https://github.com/user-attachments/assets/c691edac-12de-4db7-883e-99f7add5ce94" />
+<img width="1632" height="887" alt="Screenshot 2026-06-09 151955" src="https://github.com/user-attachments/assets/1d0843c6-5dbf-4b30-99fe-7eed4157667f" />
+
